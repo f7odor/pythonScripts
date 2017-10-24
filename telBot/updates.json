@@ -1,0 +1,62 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "message": {
+        "date": 1508845677,
+        "text": "Hello!",
+        "from": {
+          "first_name": "inkognito",
+          "is_bot": false,
+          "id": 401959433,
+          "language_code": "ru-RU"
+        },
+        "message_id": 2,
+        "chat": {
+          "first_name": "inkognito",
+          "type": "private",
+          "id": 401959433
+        }
+      },
+      "update_id": 196958575
+    },
+    {
+      "message": {
+        "date": 1508846042,
+        "text": "Привет",
+        "from": {
+          "first_name": "inkognito",
+          "is_bot": false,
+          "id": 401959433,
+          "language_code": "ru-RU"
+        },
+        "message_id": 3,
+        "chat": {
+          "first_name": "inkognito",
+          "type": "private",
+          "id": 401959433
+        }
+      },
+      "update_id": 196958576
+    },
+    {
+      "message": {
+        "date": 1508846100,
+        "text": "How are You?",
+        "from": {
+          "first_name": "inkognito",
+          "is_bot": false,
+          "id": 401959433,
+          "language_code": "ru-RU"
+        },
+        "message_id": 4,
+        "chat": {
+          "first_name": "inkognito",
+          "type": "private",
+          "id": 401959433
+        }
+      },
+      "update_id": 196958577
+    }
+  ]
+}
