@@ -9,7 +9,7 @@ def generate_per():
     nums = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
 
     while len(name) != 5:
-        name += choice(letters)
+        name = name + choice(letters)
 
     while len(tel) != 9:
         tel += choice(nums)
