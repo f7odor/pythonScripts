@@ -4,3 +4,6 @@
 <hr>
 <h3>Script2:</h3>
 <p>Write into json File</p>
+<hr>
+<h3>Script3:</h3>
+<p>Simple Binary search</p>
